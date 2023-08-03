@@ -1,8 +1,18 @@
-# React + Vite
+# Password Strength Tester in React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+this is an app to check your password strength, courtesy of ![](https://github.com/sadanandpai)
 
-Currently, two official plugins are available:
+## Screenshot
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![]("./public/Screenshot 2023-08-03 133617.png")
+
+### Links
+
+- Live URL: (https://raderne.github.io/password-strength-react/)
+- Solution URL: (https://github.com/Raderne/password-strength-react)
+
+## Built with
+
+- REACT + vite
+- Semantic HTML5 markup
+- CSS custom properties
