@@ -4,7 +4,7 @@ this is an app to check your password strength, courtesy of ![](https://github.c
 
 ## Screenshot
 
-![](./public/Screenshot 2023-08-03 133617.png)
+![](./image.png)
 
 ### Links
 
